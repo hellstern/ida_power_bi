@@ -8,9 +8,9 @@ Tue Hellstern
 * [Microsoft_1.zip](Microsoft_1.zip)
 * [Microsoft_2.zip](Microsoft_2.zip)
 * [Microsoft_3.zip](Microsoft_3.zip)
-* [IT Spend Analysis Sample.zip](IT Spend Analysis Sample.zip)
-* [Procurement Analysis Sample.zip](Procurement Analysis Sample.zip)
-* [Sales and Marketing Sample PBIX.zip](Sales and Marketing Sample PBIX.zip)
+* [ITSpendAnalysisSample.zip](ITSpendAnalysisSample.zip)
+* [ProcurementAnalysisSample.zip](ProcurementAnalysisSample.zip)
+* [SalesandMarketingSample.zip](SalesandMarketingSample.zip)
 
 ## Northwind
 * [Northwind.zip](Northwind.zip)
