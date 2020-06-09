@@ -1,6 +1,6 @@
 # IDA Power BI seminar
 
-Her kan du finde de filer jeg brugere på seminaret
+Her kan du finde de filer jeg bruger på seminaret
 
 Tue Hellstern
 
