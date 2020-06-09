@@ -20,8 +20,13 @@ Tue Hellstern
 ## PowerPoint
 [Power_BI.pptx](Power_BI.pptx)
 
-# Links
+
+## Link web-data
+* [https://www.bankrate.com/finance/retirement/best-places-retire-how-state-ranks.aspx](https://www.bankrate.com/finance/retirement/best-places-retire-how-state-ranks.aspx)
+* [http://en.wikipedia.org/wiki/List_of_U.S_state_abbreviations](http://en.wikipedia.org/wiki/List_of_U.S_state_abbreviations)
+
+# Links - Microsoft Power BI
 * [Microsoft Power BI Blog](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-may-2020-feature-summary/)
 * [Microsoft Selvstudier](https://docs.microsoft.com/da-dk/power-bi/guided-learning)
-* []()
+
 
